@@ -1,4 +1,4 @@
-# Email Network
+# Email Networ
 
 ## Description
 Network graphing utilities for email/mailbox data.
